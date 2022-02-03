@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628357247 source:h:\uiu\4th trimester\eee 2402\labsheet\3\labsheet_3_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
